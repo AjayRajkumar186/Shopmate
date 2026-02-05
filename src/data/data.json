@@ -1,0 +1,20 @@
+{
+  "admins": [
+    {
+      "id": 1,
+      "username": "Admin",
+      "email": "admin@shop.com",
+      "password": "admin123",
+      "role": "admin"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Ajay",
+      "email": "user1@mail.com",
+      "password": "user123",
+      "role": "user"
+    }
+  ]
+}

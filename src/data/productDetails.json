@@ -1,0 +1,1577 @@
+[
+  {
+    "id": 1,
+    "stock": 20,
+    "description": "iPhone 15 Pro combines cutting-edge performance with sleek design and advanced camera features.",
+    "specs": {
+      "display": "6.1-inch OLED",
+      "processor": "A17 Pro",
+       "ram": "8GB",
+      "storage": "256GB",
+      "camera": "48MP",
+      "battery": "3349mAh",
+      "connectivity": "5G"
+    },
+    "rating": 4.8,
+    "reviews": 1823
+  },
+  {
+    "id": 11,
+    "description": "MacBook Air with M2 chip delivers exceptional performance with incredible battery life in a thin and lightweight design.",
+    "stock": 10,
+    "specs": {
+      "display": "13.6-inch Liquid Retina",
+      "processor": "Apple M2",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "battery": "Up to 18 hours",
+      "weight": "1.24 kg",
+      "graphics": "Intel Iris Xe",
+      "connectivity": "Wi-Fi 6E, Bluetooth"
+    },
+    "rating": 4.9,
+    "reviews": 2456
+  },
+  {
+    "id": 21,
+    "description": "JBL Tune 760NC offers powerful bass sound with Active Noise Cancellation for immersive listening.",
+    "stock": 40,
+    "specs": {
+      "type": "Over-Ear Wireless",
+      "noiseCancellation": "Active Noise Cancellation",
+      "battery": "Up to 35 hours",
+      "charging": "USB-C Fast Charging",
+      "weight": "220g",
+      "impedance": "32 Ohms",
+      "frequencyResponse": "20Hz-20kHz",
+      "connectivity": "Bluetooth, Wired"
+    },
+    "rating": 4.5,
+    "reviews": 1128
+  },
+  {
+    "id": 31,
+    "description": "Apple Watch SE combines powerful features to help you stay connected, active, healthy, and safe.",
+    "stock": 20,
+    "specs": {
+      "display": "Retina LTPO OLED",
+      "size": "44mm",
+      "processor": "Apple S8",
+      "waterResistance": "50 meters",
+      "connectivity": "GPS",
+      "battery": "2 weeks",
+      "sensors": "Heart rate, GPS"
+    },
+    "rating": 4.7,
+    "reviews": 1980
+  },
+  {
+    "id": 41,
+    "description": "Canon EOS R50 is a compact mirrorless camera designed for beginners, offering fast autofocus and 4K video recording.",
+    "stock": 10,
+    "specs": {
+      "sensor": "APS-C CMOS",
+      "resolution": "24.2 MP",
+      "video": "4K UHD",
+      "mount": "RF Mount",
+      "weight": "375g"
+    },
+    "rating": 4.7,
+    "reviews": 840
+  },
+  {
+    "id": 51,
+    "description": "Nike Air Max shoes provide superior comfort and cushioning, ideal for daily wear and running activities.",
+    "stock": 30,
+    "specs": {
+      "material": "Mesh & Synthetic",
+      "sole": "Rubber",
+      "fit": "Regular",
+      "cushioning": "Air Max",
+      "gender": "Unisex"
+    },
+    "rating": 4.6,
+    "reviews": 1520
+  },
+  {
+    "id": 61,
+    "description": "Men cotton t-shirt made from soft breathable fabric, perfect for everyday casual wear.",
+    "stock": 60,
+    "specs": {
+      "fabric": "100% Cotton",
+      "fit": "Regular",
+      "sleeve": "Half Sleeve",
+      "neck": "Round Neck",
+      "care": "Machine Wash"
+    },
+    "rating": 4.4,
+    "reviews": 2180
+  },
+  {
+    "id": 71,
+    "description": "LG 7kg front load washing machine offers powerful cleaning with inverter technology and energy efficiency.",
+    "stock": 10,
+    "specs": {
+      "capacity": "7 kg",
+      "type": "Front Load",
+      "energyRating": "5 Star",
+      "motor": "Inverter Direct Drive",
+      "warranty": "2 Years"
+    },
+    "rating": 4.5,
+    "reviews": 640
+  },
+  {
+    "id": 81,
+    "description": "LG 1.5 Ton 5 Star AC delivers fast cooling with energy-saving inverter technology.",
+    "stock": 9,
+    "specs": {
+      "capacity": "1.5 Ton",
+      "energyRating": "5 Star",
+      "compressor": "Dual Inverter",
+      "refrigerant": "R32",
+      "cooling": "Fast Cool"
+    },
+    "rating": 4.6,
+    "reviews": 710
+  },
+  {
+    "id": 91,
+    "description": "LG 260L double door refrigerator ensures efficient cooling and long-lasting freshness with frost-free technology.",
+    "stock": 10,
+    "specs": {
+      "capacity": "260 Litres",
+      "doorType": "Double Door",
+      "cooling": "Frost Free",
+      "energyRating": "3 Star",
+      "compressor": "Smart Inverter"
+    },
+    "rating": 4.5,
+    "reviews": 980
+  },
+  {
+    "id": 101,
+    "description": "Samsung 55-inch 4K Smart TV delivers immersive visuals, smart features, and powerful sound.",
+    "stock": 10,
+    "specs": {
+      "screenSize": "55 Inches",
+      "resolution": "4K Ultra HD",
+      "display": "LED",
+      "smartTV": "Yes",
+      "connectivity": "Wi-Fi, Bluetooth, HDMI"
+    },
+    "rating": 4.8,
+    "reviews": 1340
+  },
+  {
+    "id": 2,
+    "description": "Samsung Galaxy S24 is a premium flagship smartphone with powerful performance, advanced camera system, and stunning display.",
+    "stock": 18,
+    "specs": {
+      "display": "6.2-inch Dynamic AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "camera": "50 MP Triple Camera",
+      "battery": "4000 mAh",
+      "connectivity": "5G",
+      "ram": "8GB",
+      "storage": "256GB"
+    },
+    "rating": 4.8,
+    "reviews": 2140
+  },
+  {
+    "id": 12,
+    "description": "HP Spectre x360 is a premium 2-in-1 laptop designed for power users, featuring a sleek design and touchscreen display.",
+    "stock": 9,
+    "specs": {
+      "display": "13.5-inch OLED Touch",
+      "processor": "Intel Core i7",
+      "ram": "16 GB",
+      "storage": "1 TB SSD",
+      "weight": "1.36 kg"
+    },
+    "rating": 4.7,
+    "reviews": 890
+  },
+  {
+    "id": 22,
+    "description": "Boat Rockerz 550 wireless headphones deliver deep bass, long battery life, and comfortable over-ear design.",
+    "stock": 60,
+    "specs": {
+      "type": "Over-Ear",
+      "battery": "20 Hours",
+      "connectivity": "Bluetooth",
+      "charging": "Fast Charging",
+      "driver": "50 mm"
+    },
+    "rating": 4.4,
+    "reviews": 3250
+  },
+  {
+    "id": 32,
+    "description": "Apple Watch Series 9 offers advanced health tracking, powerful performance, and seamless Apple ecosystem integration.",
+    "stock": 15,
+    "specs": {
+      "display": "Always-On Retina",
+      "size": "45mm",
+      "processor": "Apple S9",
+      "waterResistance": "50 meters",
+      "connectivity": "GPS + Cellular"
+    },
+    "rating": 4.8,
+    "reviews": 1760
+  },
+  {
+    "id": 42,
+    "description": "Nikon Z50 mirrorless camera provides excellent image quality, fast autofocus, and a compact lightweight body.",
+    "stock": 8,
+    "specs": {
+      "sensor": "APS-C CMOS",
+      "resolution": "20.9 MP",
+      "video": "4K UHD",
+      "mount": "Z Mount",
+      "weight": "395g"
+    },
+    "rating": 4.6,
+    "reviews": 720
+  },
+  {
+    "id": 52,
+    "description": "Adidas Ultraboost shoes are built for high performance with responsive cushioning and superior comfort.",
+    "stock": 18,
+    "specs": {
+      "material": "Primeknit",
+      "sole": "Rubber",
+      "cushioning": "Boost",
+      "fit": "Regular",
+      "gender": "Unisex"
+    },
+    "rating": 4.7,
+    "reviews": 1980
+  },
+  {
+    "id": 62,
+    "description": "Women Kurti made from comfortable fabric, perfect for daily wear and festive occasions.",
+    "stock": 35,
+    "specs": {
+      "fabric": "Rayon",
+      "fit": "Regular",
+      "length": "Knee Length",
+      "sleeve": "3/4 Sleeve",
+      "care": "Hand Wash"
+    },
+    "rating": 4.3,
+    "reviews": 1560
+  },
+  {
+    "id": 72,
+    "description": "Samsung 6.5kg top load washing machine with easy wash technology ensures powerful cleaning and convenience.",
+    "stock": 14,
+    "specs": {
+      "capacity": "6.5 kg",
+      "type": "Top Load",
+      "energyRating": "3 Star",
+      "technology": "Easy Wash",
+      "warranty": "2 Years"
+    },
+    "rating": 4.4,
+    "reviews": 540
+  },
+  {
+    "id": 82,
+    "description": "Samsung WindFree AC delivers gentle and uniform cooling without direct airflow, ensuring maximum comfort.",
+    "stock": 8,
+    "specs": {
+      "capacity": "1.5 Ton",
+      "energyRating": "5 Star",
+      "cooling": "WindFree",
+      "compressor": "Digital Inverter",
+      "refrigerant": "R32"
+    },
+    "rating": 4.6,
+    "reviews": 670
+  },
+  {
+    "id": 92,
+    "description": "Samsung 253L double door refrigerator with digital inverter technology ensures freshness and energy efficiency.",
+    "stock": 12,
+    "specs": {
+      "capacity": "253 Litres",
+      "doorType": "Double Door",
+      "cooling": "Frost Free",
+      "energyRating": "3 Star",
+      "compressor": "Digital Inverter"
+    },
+    "rating": 4.5,
+    "reviews": 910
+  },
+  {
+    "id": 102,
+    "description": "LG OLED 55-inch 4K TV delivers exceptional picture quality with perfect blacks and immersive viewing experience.",
+    "stock": 6,
+    "specs": {
+      "screenSize": "55 Inches",
+      "resolution": "4K Ultra HD",
+      "display": "OLED",
+      "smartTV": "Yes",
+      "connectivity": "Wi-Fi, HDMI, Bluetooth"
+    },
+    "rating": 4.9,
+    "reviews": 1280
+  },
+  {
+    "id": 3,
+    "description": "Google Pixel 8 offers a clean Android experience with advanced AI features, excellent camera performance, and smooth performance.",
+    "stock": 15,
+    "specs": {
+      "display": "6.2-inch OLED",
+      "processor": "Google Tensor G3",
+      "camera": "50 MP Dual Camera",
+      "battery": "4575 mAh",
+      "connectivity": "5G",
+      "ram": "8GB",
+      "storage": "256GB"
+    },
+    "rating": 4.7,
+    "reviews": 1820
+  },
+  {
+    "id": 13,
+    "description": "Lenovo Legion 5 is a powerful gaming laptop designed for high performance with advanced cooling and immersive visuals.",
+    "stock": 12,
+    "specs": {
+      "display": "15.6-inch FHD 165Hz",
+      "processor": "AMD Ryzen 7",
+      "graphics": "NVIDIA RTX 4060",
+      "ram": "16 GB",
+      "storage": "1 TB SSD"
+    },
+    "rating": 4.8,
+    "reviews": 960
+  },
+  {
+    "id": 23,
+    "description": "Sennheiser HD 450BT headphones deliver balanced sound quality with active noise cancellation and long battery life.",
+    "stock": 22,
+    "specs": {
+      "type": "Over-Ear",
+      "noiseCancellation": "Active",
+      "battery": "30 Hours",
+      "connectivity": "Bluetooth 5.0",
+      "weight": "238 g"
+    },
+    "rating": 4.6,
+    "reviews": 1410
+  },
+  {
+    "id": 33,
+    "description": "Samsung Galaxy Watch 6 combines premium design with advanced health tracking and smooth performance.",
+    "stock": 18,
+    "specs": {
+      "display": "Super AMOLED",
+      "size": "44mm",
+      "processor": "Exynos W930",
+      "waterResistance": "50 meters",
+      "connectivity": "GPS, Bluetooth"
+    },
+    "rating": 4.7,
+    "reviews": 1680
+  },
+  {
+    "id": 43,
+    "description": "Sony Alpha A6400 mirrorless camera offers lightning-fast autofocus, excellent image quality, and 4K video recording.",
+    "stock": 9,
+    "specs": {
+      "sensor": "APS-C CMOS",
+      "resolution": "24.2 MP",
+      "autofocus": "425-Point AF",
+      "video": "4K UHD",
+      "weight": "403 g"
+    },
+    "rating": 4.7,
+    "reviews": 890
+  },
+  {
+    "id": 53,
+    "description": "Puma RS-X sneakers feature bold styling, superior comfort, and durable construction for everyday wear.",
+    "stock": 22,
+    "specs": {
+      "material": "Mesh & Synthetic",
+      "sole": "Rubber",
+      "fit": "Regular",
+      "cushioning": "EVA Midsole",
+      "gender": "Unisex"
+    },
+    "rating": 4.5,
+    "reviews": 1340
+  },
+  {
+    "id": 63,
+    "description": "Men slim-fit denim jeans crafted from durable fabric, offering comfort and style for daily wear.",
+    "stock": 40,
+    "specs": {
+      "fabric": "Denim",
+      "fit": "Slim Fit",
+      "waistRise": "Mid Rise",
+      "stretch": "Yes",
+      "care": "Machine Wash"
+    },
+    "rating": 4.4,
+    "reviews": 2100
+  },
+  {
+    "id": 73,
+    "description": "Whirlpool 7kg semi-automatic washing machine is a budget-friendly option with efficient wash performance.",
+    "stock": 18,
+    "specs": {
+      "capacity": "7 kg",
+      "type": "Semi-Automatic",
+      "energyRating": "3 Star",
+      "washPrograms": "Multiple",
+      "warranty": "2 Years"
+    },
+    "rating": 4.3,
+    "reviews": 580
+  },
+  {
+    "id": 83,
+    "description": "Voltas 1.5 Ton split AC offers reliable cooling performance with energy efficiency at an affordable price.",
+    "stock": 14,
+    "specs": {
+      "capacity": "1.5 Ton",
+      "energyRating": "3 Star",
+      "compressor": "High EER Rotary",
+      "refrigerant": "R32",
+      "cooling": "Fast Cool"
+    },
+    "rating": 4.4,
+    "reviews": 620
+  },
+  {
+    "id": 93,
+    "description": "Whirlpool 240L frost-free refrigerator ensures uniform cooling and long-lasting freshness for your food.",
+    "stock": 14,
+    "specs": {
+      "capacity": "240 Litres",
+      "doorType": "Double Door",
+      "cooling": "Frost Free",
+      "energyRating": "3 Star",
+      "compressor": "Intellisense Inverter"
+    },
+    "rating": 4.5,
+    "reviews": 860
+  },
+  {
+    "id": 103,
+    "description": "Sony Bravia 65-inch premium TV delivers stunning picture quality, immersive sound, and smart features.",
+    "stock": 5,
+    "specs": {
+      "screenSize": "65 Inches",
+      "resolution": "4K Ultra HD",
+      "display": "LED",
+      "smartTV": "Yes",
+      "connectivity": "Wi-Fi, HDMI, Bluetooth"
+    },
+    "rating": 4.8,
+    "reviews": 1120
+  },
+  {
+    "id": 4,
+    "description": "OnePlus Nord CE 3 offers smooth performance with a vibrant AMOLED display and fast charging.",
+    "stock": 25,
+    "specs": {
+      "display": "6.7-inch AMOLED 120Hz",
+      "processor": "Snapdragon 782G",
+      "camera": "50MP Triple Camera",
+      "battery": "5000mAh",
+      "charging": "80W Fast Charging",
+      "ram": "8GB",
+      "storage": "256GB",
+      "connectivity":"5G, Wi-Fi, Bluetooth"
+    },
+    "rating": 4.5,
+    "reviews": 1850
+  },
+  {
+    "id": 14,
+    "description": "ASUS ROG Zephyrus is a premium gaming laptop built for extreme performance and portability.",
+    "stock": 6,
+    "specs": {
+      "display": "14-inch QHD 165Hz",
+      "processor": "AMD Ryzen 9",
+      "graphics": "NVIDIA RTX 4060",
+      "ram": "16GB DDR5",
+      "storage": "1TB SSD"
+    },
+    "rating": 4.8,
+    "reviews": 920
+  },
+  {
+    "id": 24,
+    "description": "Skullcandy Crusher delivers deep bass and immersive sound for music lovers.",
+    "stock": 25,
+    "specs": {
+      "type": "Over-Ear",
+      "connectivity": "Bluetooth 5.0",
+      "batteryLife": "40 Hours",
+      "charging": "USB-C",
+      "features": "Adjustable Bass"
+    },
+    "rating": 4.4,
+    "reviews": 2100
+  },
+  {
+    "id": 34,
+    "description": "Noise ColorFit Pro 5 is a budget smartwatch focused on health tracking and fitness.",
+    "stock": 40,
+    "specs": {
+      "display": "1.85-inch AMOLED",
+      "waterResistance": "IP68",
+      "batteryLife": "7 Days",
+      "healthTracking": "Heart Rate, SpO2",
+      "connectivity": "Bluetooth"
+    },
+    "rating": 4.3,
+    "reviews": 3600
+  },
+  {
+    "id": 44,
+    "description": "Canon EOS 1500D is a beginner-friendly DSLR with excellent image quality.",
+    "stock": 20,
+    "specs": {
+      "sensor": "24.1MP APS-C",
+      "lens": "18–55mm",
+      "video": "Full HD",
+      "connectivity": "Wi-Fi, NFC",
+      "mount": "EF-S"
+    },
+    "rating": 4.6,
+    "reviews": 1100
+  },
+  {
+    "id": 54,
+    "description": "Reebok Flexagon training shoes provide flexibility and comfort for workouts.",
+    "stock": 40,
+    "specs": {
+      "type": "Training Shoes",
+      "material": "Mesh",
+      "sole": "EVA Rubber",
+      "fit": "Regular",
+      "usage": "Gym & Training"
+    },
+    "rating": 4.2,
+    "reviews": 890
+  },
+  {
+    "id": 64,
+    "description": "Women stretch jeans designed for comfort and everyday wear.",
+    "stock": 28,
+    "specs": {
+      "fit": "Slim Fit",
+      "fabric": "Denim Cotton",
+      "stretch": "Yes",
+      "waist": "Mid Rise",
+      "washCare": "Machine Wash"
+    },
+    "rating": 4.1,
+    "reviews": 670
+  },
+  {
+    "id": 74,
+    "description": "IFB 8kg front load washing machine ensures deep cleaning with energy efficiency.",
+    "stock": 8,
+    "specs": {
+      "capacity": "8 Kg",
+      "type": "Front Load",
+      "spinSpeed": "1400 RPM",
+      "technology": "Deep Clean",
+      "energyRating": "5 Star"
+    },
+    "rating": 4.5,
+    "reviews": 840
+  },
+  {
+    "id": 84,
+    "description": "Daikin inverter AC delivers powerful cooling with silent performance.",
+    "stock": 7,
+    "specs": {
+      "capacity": "1.5 Ton",
+      "type": "Split AC",
+      "compressor": "Inverter",
+      "energyRating": "5 Star",
+      "noiseLevel": "Low"
+    },
+    "rating": 4.7,
+    "reviews": 1420
+  },
+  {
+    "id": 94,
+    "description": "Haier 320L triple door refrigerator offers spacious storage and efficient cooling.",
+    "stock": 8,
+    "specs": {
+      "capacity": "320 Liters",
+      "cooling": "Frost Free",
+      "doors": "Triple Door",
+      "shelves": "Toughened Glass",
+      "energyRating": "3 Star"
+    },
+    "rating": 4.6,
+    "reviews": 980
+  },
+  {
+    "id": 104,
+    "description": "Mi 4A Pro 43-inch 4K TV delivers immersive visuals with smart Android features.",
+    "stock": 20,
+    "specs": {
+      "screenSize": "43 Inches",
+      "resolution": "4K Ultra HD",
+      "smartTV": "Yes",
+      "sound": "20W Dolby Audio",
+      "connectivity": "Wi-Fi, HDMI, Bluetooth"
+    },
+    "rating": 4.4,
+    "reviews": 2150
+  },
+  {
+    "id": 102,
+    "description": "LG OLED 55-inch 4K TV delivers exceptional picture quality with perfect blacks and immersive viewing experience.",
+    "stock": 6,
+    "specs": {
+      "screenSize": "55 Inches",
+      "resolution": "4K Ultra HD",
+      "display": "OLED",
+      "smartTV": "Yes",
+      "connectivity": "Wi-Fi, HDMI, Bluetooth"
+    },
+    "rating": 4.9,
+    "reviews": 1280
+  },
+  {
+    "id": 5,
+    "description": "Redmi Note 13 Pro delivers flagship-level camera and performance at a competitive price.",
+    "stock": 30,
+    "specs": {
+      "display": "6.67-inch AMOLED 120Hz",
+      "processor": "Snapdragon 7s Gen 2",
+      "ram": "8GB",
+      "storage": "256GB",
+      "connectivity":"5G, Wi-Fi, Bluetooth",
+      "camera": "200MP Triple Camera",
+      "battery": "5100mAh",
+      "charging": "67W Turbo Charging"
+    },
+    "rating": 4.6,
+    "reviews": 2750
+  },
+  {
+    "id": 15,
+    "description": "Acer Swift X is designed for creators with powerful graphics in a lightweight body.",
+    "stock": 14,
+    "specs": {
+      "display": "14-inch Full HD",
+      "processor": "AMD Ryzen 7",
+      "graphics": "NVIDIA RTX 3050",
+      "ram": "16GB",
+      "storage": "1TB SSD"
+    },
+    "rating": 4.5,
+    "reviews": 980
+  },
+  {
+    "id": 25,
+    "description": "Sony WH-CH720N offers noise cancellation and comfort for everyday listening.",
+    "stock": 30,
+    "specs": {
+      "type": "Over-Ear",
+      "noiseCancellation": "Active ANC",
+      "batteryLife": "35 Hours",
+      "charging": "USB-C",
+      "weight": "192g"
+    },
+    "rating": 4.4,
+    "reviews": 1600
+  },
+  {
+    "id": 35,
+    "description": "Fire-Boltt Phoenix smartwatch features a large display with essential fitness tracking.",
+    "stock": 50,
+    "specs": {
+      "display": "1.9-inch TFT",
+      "batteryLife": "7 Days",
+      "healthTracking": "Heart Rate, SpO2",
+      "calling": "Bluetooth Calling",
+      "waterResistance": "IP67"
+    },
+    "rating": 4.2,
+    "reviews": 4200
+  },
+  {
+    "id": 45,
+    "description": "Nikon D5600 DSLR camera offers excellent image quality with a flip touchscreen.",
+    "stock": 14,
+    "specs": {
+      "sensor": "24.2MP APS-C",
+      "video": "Full HD",
+      "screen": "Vari-Angle Touchscreen",
+      "connectivity": "Wi-Fi, Bluetooth",
+      "mount": "Nikon F"
+    },
+    "rating": 4.7,
+    "reviews": 1150
+  },
+  {
+    "id": 55,
+    "description": "Bata formal shoes provide a polished look with all-day comfort for office wear.",
+    "stock": 35,
+    "specs": {
+      "type": "Formal Shoes",
+      "material": "Synthetic Leather",
+      "sole": "Rubber",
+      "fit": "Regular",
+      "occasion": "Office & Formal"
+    },
+    "rating": 4.1,
+    "reviews": 720
+  },
+  {
+    "id": 65,
+    "description": "Men hoodie designed for warmth and comfort during winter seasons.",
+    "stock": 22,
+    "specs": {
+      "fabric": "Cotton Blend",
+      "fit": "Regular",
+      "hood": "Yes",
+      "sleeves": "Full Sleeve",
+      "washCare": "Machine Wash"
+    },
+    "rating": 4.3,
+    "reviews": 540
+  },
+  {
+    "id": 75,
+    "description": "Bosch 7kg front load washing machine ensures silent operation and deep cleaning.",
+    "stock": 7,
+    "specs": {
+      "capacity": "7 Kg",
+      "type": "Front Load",
+      "spinSpeed": "1400 RPM",
+      "motor": "EcoSilence Drive",
+      "energyRating": "5 Star"
+    },
+    "rating": 4.6,
+    "reviews": 890
+  },
+  {
+    "id": 85,
+    "description": "Blue Star 1 Ton AC is ideal for compact rooms with efficient cooling performance.",
+    "stock": 12,
+    "specs": {
+      "capacity": "1 Ton",
+      "type": "Split AC",
+      "compressor": "Rotary",
+      "energyRating": "3 Star",
+      "coolingArea": "Up to 120 sq ft"
+    },
+    "rating": 4.3,
+    "reviews": 760
+  },
+  {
+    "id": 95,
+    "description": "Godrej 190L single door refrigerator is compact and budget-friendly.",
+    "stock": 20,
+    "specs": {
+      "capacity": "190 Liters",
+      "cooling": "Direct Cool",
+      "energyRating": "4 Star",
+      "shelves": "Toughened Glass",
+      "defrost": "Manual"
+    },
+    "rating": 4.2,
+    "reviews": 680
+  },
+  {
+    "id": 105,
+    "description": "OnePlus Y Series TV offers smooth visuals with Android TV experience.",
+    "stock": 14,
+    "specs": {
+      "screenSize": "43 Inches",
+      "resolution": "Full HD",
+      "smartTV": "Android TV",
+      "sound": "20W Dolby Audio",
+      "connectivity": "Wi-Fi, HDMI, Bluetooth"
+    },
+    "rating": 4.4,
+    "reviews": 1950
+  },
+  {
+    "id": 6,
+    "description": "iQOO Neo 7 is a gaming-focused smartphone delivering powerful performance and fast charging.",
+    "stock": 22,
+    "specs": {
+      "display": "6.78-inch AMOLED 120Hz",
+      "processor": "MediaTek Dimensity 9000+",
+      "camera": "64MP OIS Camera",
+      "battery": "5000mAh",
+      "ram": "8GB",
+      "storage": "256GB",
+      "connectivity":"5G, Wi-Fi, Bluetooth",
+      "charging": "120W FlashCharge"
+    },
+    "rating": 4.6,
+    "reviews": 3100
+  },
+  {
+    "id": 16,
+    "description": "Dell Inspiron 15 is a reliable everyday laptop designed for work, study, and entertainment.",
+    "stock": 18,
+    "specs": {
+      "display": "15.6-inch Full HD",
+      "processor": "Intel Core i5 12th Gen",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "os": "Windows 11"
+    },
+    "rating": 4.3,
+    "reviews": 1450
+  },
+  {
+    "id": 26,
+    "description": "Realme Buds Wireless 3 neckband offers deep bass and long battery life.",
+    "stock": 45,
+    "specs": {
+      "type": "Neckband",
+      "drivers": "13.6mm",
+      "noiseCancellation": "Active ANC",
+      "batteryLife": "40 Hours",
+      "charging": "Fast Charging"
+    },
+    "rating": 4.4,
+    "reviews": 4200
+  },
+  {
+    "id": 36,
+    "description": "Amazfit GTR 4 is a premium sports smartwatch with precise health tracking.",
+    "stock": 12,
+    "specs": {
+      "display": "1.43-inch AMOLED",
+      "batteryLife": "14 Days",
+      "healthTracking": "Heart Rate, SpO2, Stress",
+      "gps": "Dual-Band GPS",
+      "waterResistance": "5 ATM"
+    },
+    "rating": 4.5,
+    "reviews": 890
+  },
+  {
+    "id": 46,
+    "description": "Sony ZV-E10 is a compact mirrorless camera designed specifically for content creators and vloggers.",
+    "stock": 11,
+    "specs": {
+      "sensor": "24.2MP APS-C",
+      "video": "4K Video Recording",
+      "autofocus": "Fast Hybrid AF",
+      "mount": "Sony E-Mount",
+      "connectivity": "Wi-Fi, Bluetooth"
+    },
+    "rating": 4.8,
+    "reviews": 1320
+  },
+  {
+    "id": 56,
+    "description": "Woodland boots are rugged and durable, designed for outdoor adventures.",
+    "stock": 12,
+    "specs": {
+      "type": "Outdoor Boots",
+      "material": "Leather",
+      "sole": "Rubber Grip",
+      "ankleSupport": "High",
+      "usage": "Trekking & Outdoor"
+    },
+    "rating": 4.4,
+    "reviews": 670
+  },
+  {
+    "id": 66,
+    "description": "Women jacket offering warmth, comfort, and stylish winter wear.",
+    "stock": 18,
+    "specs": {
+      "fabric": "Polyester",
+      "fit": "Regular",
+      "lining": "Insulated",
+      "closure": "Zipper",
+      "season": "Winter"
+    },
+    "rating": 4.2,
+    "reviews": 520
+  },
+  {
+    "id": 76,
+    "description": "Panasonic 6kg top load washing machine is compact and ideal for small families.",
+    "stock": 12,
+    "specs": {
+      "capacity": "6 Kg",
+      "type": "Top Load",
+      "washPrograms": "8",
+      "energyRating": "3 Star",
+      "control": "Digital"
+    },
+    "rating": 4.1,
+    "reviews": 610
+  },
+  {
+    "id": 86,
+    "description": "Hitachi 1.5 Ton AC delivers powerful cooling with long-lasting performance.",
+    "stock": 10,
+    "specs": {
+      "capacity": "1.5 Ton",
+      "type": "Split AC",
+      "compressor": "Inverter",
+      "energyRating": "3 Star",
+      "coolingArea": "Up to 180 sq ft"
+    },
+    "rating": 4.4,
+    "reviews": 840
+  },
+  {
+    "id": 96,
+    "description": "Panasonic 307L inverter refrigerator ensures energy efficiency with smart cooling.",
+    "stock": 9,
+    "specs": {
+      "capacity": "307 Liters",
+      "cooling": "Frost Free",
+      "compressor": "Inverter",
+      "energyRating": "4 Star",
+      "shelves": "Toughened Glass"
+    },
+    "rating": 4.3,
+    "reviews": 590
+  },
+  {
+    "id": 106,
+    "description": "TCL QLED TV delivers vibrant colors with an immersive smart TV experience.",
+    "stock": 11,
+    "specs": {
+      "screenSize": "55 Inches",
+      "resolution": "4K Ultra HD",
+      "display": "QLED",
+      "smartTV": "Google TV",
+      "connectivity": "Wi-Fi, HDMI, Bluetooth"
+    },
+    "rating": 4.5,
+    "reviews": 970
+  },
+  {
+    "id": 7,
+    "description": "Vivo X90 is a camera-centric flagship smartphone co-engineered with ZEISS for professional photography.",
+    "stock": 14,
+    "specs": {
+      "display": "6.78-inch AMOLED 120Hz",
+      "processor": "MediaTek Dimensity 9200",
+      "camera": "50MP ZEISS Camera",
+      "battery": "4810mAh",
+      "charging": "120W Fast Charging",
+      "ram": "8GB",
+      "storage": "256GB",
+      "connectivity":"5G, Wi-Fi, Bluetooth"
+    },
+    "rating": 4.7,
+    "reviews": 1850
+  },
+  {
+    "id": 17,
+    "description": "MSI Katana gaming laptop delivers high performance with a powerful GPU and aggressive design.",
+    "stock": 8,
+    "specs": {
+      "display": "15.6-inch Full HD 144Hz",
+      "processor": "Intel Core i7 12th Gen",
+      "graphics": "NVIDIA RTX 3060",
+      "ram": "16GB",
+      "storage": "1TB SSD"
+    },
+    "rating": 4.6,
+    "reviews": 920
+  },
+  {
+    "id": 27,
+    "description": "Noise cancelling headset designed for immersive sound and comfortable long listening sessions.",
+    "stock": 20,
+    "specs": {
+      "type": "Over-Ear",
+      "noiseCancellation": "Active Noise Cancellation",
+      "batteryLife": "35 Hours",
+      "drivers": "40mm",
+      "connectivity": "Bluetooth"
+    },
+    "rating": 4.4,
+    "reviews": 2100
+  },
+  {
+    "id": 37,
+    "description": "Fossil Gen 6 is a premium Wear OS smartwatch with fast charging and smooth performance.",
+    "stock": 10,
+    "specs": {
+      "display": "1.28-inch AMOLED",
+      "os": "Wear OS",
+      "processor": "Snapdragon Wear 4100+",
+      "batteryLife": "24 Hours",
+      "charging": "Fast Charge"
+    },
+    "rating": 4.3,
+    "reviews": 780
+  },
+  {
+    "id": 47,
+    "description": "Fujifilm X-S10 is a lightweight mirrorless camera with retro styling and powerful image stabilization.",
+    "stock": 6,
+    "specs": {
+      "sensor": "26.1MP APS-C",
+      "video": "4K Video",
+      "stabilization": "5-Axis IBIS",
+      "autofocus": "Face & Eye AF",
+      "connectivity": "Wi-Fi, Bluetooth"
+    },
+    "rating": 4.8,
+    "reviews": 640
+  },
+  {
+    "id": 57,
+    "description": "Skechers Go Walk shoes provide lightweight comfort and cushioning for everyday walking.",
+    "stock": 25,
+    "specs": {
+      "type": "Walking Shoes",
+      "material": "Mesh Fabric",
+      "sole": "EVA Cushioning",
+      "fit": "Slip-On",
+      "usage": "Daily Walking"
+    },
+    "rating": 4.5,
+    "reviews": 980
+  },
+  {
+    "id": 67,
+    "description": "Men formal shirt designed for comfort and professional office wear.",
+    "stock": 30,
+    "specs": {
+      "fabric": "Cotton Blend",
+      "fit": "Slim Fit",
+      "sleeve": "Full Sleeve",
+      "closure": "Button",
+      "occasion": "Formal"
+    },
+    "rating": 4.2,
+    "reviews": 560
+  },
+  {
+    "id": 77,
+    "description": "Haier 7.5kg top load washing machine with quick wash and efficient cleaning.",
+    "stock": 16,
+    "specs": {
+      "capacity": "7.5 Kg",
+      "type": "Top Load",
+      "washPrograms": "10",
+      "energyRating": "3 Star",
+      "control": "Digital Panel"
+    },
+    "rating": 4.1,
+    "reviews": 610
+  },
+  {
+    "id": 87,
+    "description": "Panasonic smart AC with Wi-Fi control enables remote operation and energy efficiency.",
+    "stock": 11,
+    "specs": {
+      "capacity": "1.5 Ton",
+      "type": "Split AC",
+      "smartControl": "Wi-Fi Enabled",
+      "energyRating": "4 Star",
+      "compressor": "Inverter"
+    },
+    "rating": 4.4,
+    "reviews": 750
+  },
+  {
+    "id": 97,
+    "description": "Bosch 559L side-by-side refrigerator offers premium storage and uniform cooling.",
+    "stock": 4,
+    "specs": {
+      "capacity": "559 Liters",
+      "type": "Side by Side",
+      "cooling": "Frost Free",
+      "energyRating": "4 Star",
+      "shelves": "Toughened Glass"
+    },
+    "rating": 4.6,
+    "reviews": 430
+  },
+  {
+    "id": 107,
+    "description": "Samsung Frame TV transforms your TV into wall art with stunning QLED display quality.",
+    "stock": 4,
+    "specs": {
+      "screenSize": "55 Inches",
+      "resolution": "4K Ultra HD",
+      "display": "QLED",
+      "smartTV": "Tizen OS",
+      "artMode": "Yes"
+    },
+    "rating": 4.8,
+    "reviews": 1180
+  },
+  {
+    "id": 8,
+    "description": "Realme GT 5 is a performance beast with smooth display, fast processor, and great battery life.",
+    "stock": 28,
+    "specs": {
+      "display": "6.7-inch AMOLED",
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "5000mAh",
+      "camera": "108MP + 8MP + 2MP",
+      "connectivity": "5G, Wi-Fi, Bluetooth"
+    },
+    "rating": 4.7,
+    "reviews": 1345
+  },
+  {
+    "id": 18,
+    "description": "Samsung Galaxy Book is a sleek Windows laptop designed for productivity and multimedia.",
+    "stock": 11,
+    "specs": {
+      "display": "15.6-inch FHD",
+      "processor": "Intel Core i7 13th Gen",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "graphics": "Intel Iris Xe",
+      "connectivity": "Wi-Fi 6, Bluetooth"
+    },
+    "rating": 4.6,
+    "reviews": 780
+  },
+  {
+    "id": 28,
+    "description": "AKG K361 studio headphones provide accurate sound reproduction and comfort for long listening sessions.",
+    "stock": 12,
+    "specs": {
+      "type": "Over-ear",
+      "impedance": "32 Ohms",
+      "frequencyResponse": "15Hz-28kHz",
+      "connectivity": "Wired",
+      "weight": "198g"
+    },
+    "rating": 4.5,
+    "reviews": 410
+  },
+  {
+    "id": 38,
+    "description": "Boat Wave Pro smartwatch offers fitness tracking, notifications, and a large display for active users.",
+    "stock": 35,
+    "specs": {
+      "display": "1.78-inch AMOLED",
+      "battery": "10 days",
+      "sensors": "Heart rate, SpO2, Sleep",
+      "connectivity": "Bluetooth",
+      "waterResistance": "5ATM"
+    },
+    "rating": 4.4,
+    "reviews": 620
+  },
+  {
+    "id": 48,
+    "description": "GoPro Hero 12 is an action camera for adventure enthusiasts with 4K video and stabilization.",
+    "stock": 16,
+    "specs": {
+      "video": "4K 60fps",
+      "photo": "23MP",
+      "battery": "1720mAh",
+      "connectivity": "Wi-Fi, Bluetooth",
+      "waterResistance": "10m"
+    },
+    "rating": 4.8,
+    "reviews": 980
+  },
+  {
+    "id": 58,
+    "description": "Campus Casual Shoes are lightweight and comfortable everyday shoes designed for walking.",
+    "stock": 45,
+    "specs": {
+      "material": "Synthetic leather",
+      "sizes": "6-12",
+      "color": "Black, White, Blue",
+      "sole": "Rubber"
+    },
+    "rating": 4.3,
+    "reviews": 350
+  },
+  {
+    "id": 68,
+    "description": "Women Top is a casual, soft, and comfortable top suitable for daily wear.",
+    "stock": 45,
+    "specs": {
+      "material": "Cotton blend",
+      "sizes": "S-XL",
+      "color": "Pink, White, Blue",
+      "style": "Round neck, Short sleeves"
+    },
+    "rating": 4.2,
+    "reviews": 280
+  },
+  {
+    "id": 78,
+    "description": "Godrej 6kg Eco Wash washing machine saves water while providing efficient washing performance.",
+    "stock": 20,
+    "specs": {
+      "capacity": "6kg",
+      "type": "Top Load Semi-Automatic",
+      "spinSpeed": "700 RPM",
+      "features": "EcoWash, Rust Proof Body"
+    },
+    "rating": 4.4,
+    "reviews": 430
+  },
+  {
+    "id": 88,
+    "description": "Lloyd 1.5 Ton AC provides rapid cooling with energy-efficient operation for medium-sized rooms.",
+    "stock": 15,
+    "specs": {
+      "coolingCapacity": "1.5 Ton",
+      "energyRating": "5 Star",
+      "type": "Split AC",
+      "features": "Fast Cooling, Anti-Bacterial Filter"
+    },
+    "rating": 4.5,
+    "reviews": 290
+  },
+  {
+    "id": 98,
+    "description": "LG InstaView Door-in-Door refrigerator with smart glass panel and ample storage for your family.",
+    "stock": 3,
+    "specs": {
+      "capacity": "450L",
+      "type": "Double Door",
+      "features": "InstaView, Smart Inverter, Frost Free",
+      "connectivity": "Wi-Fi"
+    },
+    "rating": 4.7,
+    "reviews": 120
+  },
+  {
+    "id": 108,
+    "description": "Panasonic LED TV is a reliable television with bright display and vivid colors for everyday entertainment.",
+    "stock": 13,
+    "specs": {
+      "screenSize": "43 inches",
+      "resolution": "Full HD",
+      "displayType": "LED",
+      "smartTV": "Yes",
+      "connectivity": "Wi-Fi, HDMI, USB"
+    },
+    "rating": 4.6,
+    "reviews": 430
+  },
+  {
+    "id": 9,
+    "description": "Samsung Galaxy A54 is an all-rounder smartphone with smooth performance, solid camera, and long battery life.",
+    "stock": 21,
+    "specs": {
+      "display": "6.5-inch AMOLED",
+      "processor": "Exynos 1380",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 12MP + 5MP",
+      "connectivity": "5G, Wi-Fi, Bluetooth"
+    },
+    "rating": 4.6,
+    "reviews": 890
+  },
+  {
+    "id": 19,
+    "description": "HP Pavilion 14 is a compact laptop ideal for daily computing tasks and multimedia use.",
+    "stock": 20,
+    "specs": {
+      "display": "14-inch FHD",
+      "processor": "Intel Core i5 13th Gen",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "graphics": "Intel Iris Xe",
+      "connectivity": "Wi-Fi 6, Bluetooth"
+    },
+    "rating": 4.5,
+    "reviews": 670
+  },
+  {
+    "id": 29,
+    "description": "Marshall Major IV headphones offer iconic design, rich audio, and long battery life for music lovers.",
+    "stock": 15,
+    "specs": {
+      "type": "On-ear",
+      "impedance": "32 Ohms",
+      "frequencyResponse": "20Hz-20kHz",
+      "connectivity": "Wireless/Bluetooth",
+      "battery": "80h playback"
+    },
+    "rating": 4.7,
+    "reviews": 540
+  },
+  {
+    "id": 39,
+    "description": "Realme Watch S is an everyday smartwatch with fitness tracking and notifications for an active lifestyle.",
+    "stock": 28,
+    "specs": {
+      "display": "1.69-inch TFT LCD",
+      "battery": "390mAh, 15 days",
+      "sensors": "Heart rate, SpO2, Sleep",
+      "connectivity": "Bluetooth 5.0",
+      "waterResistance": "IP68"
+    },
+    "rating": 4.4,
+    "reviews": 360
+  },
+  {
+    "id": 49,
+    "description": "DJI Pocket 2 is a stabilized vlogging camera with high-quality 4K video and portable design.",
+    "stock": 10,
+    "specs": {
+      "video": "4K 60fps",
+      "photo": "64MP",
+      "battery": "875mAh",
+      "connectivity": "Wi-Fi, Bluetooth",
+      "stabilization": "3-axis gimbal"
+    },
+    "rating": 4.8,
+    "reviews": 720
+  },
+  {
+    "id": 59,
+    "description": "Crocs Classic Clog offers all-day comfort and lightweight design for casual wear.",
+    "stock": 28,
+    "specs": {
+      "material": "Croslite foam",
+      "sizes": "5-12",
+      "color": "Multiple",
+      "weight": "170g"
+    },
+    "rating": 4.5,
+    "reviews": 410
+  },
+  {
+    "id": 69,
+    "description": "Track Pants are lightweight and durable sportswear for running, training, or casual wear.",
+    "stock": 38,
+    "specs": {
+      "material": "Polyester blend",
+      "sizes": "S-XL",
+      "color": "Black, Blue, Grey",
+      "style": "Elastic waistband, Tapered legs"
+    },
+    "rating": 4.3,
+    "reviews": 320
+  },
+  {
+    "id": 79,
+    "description": "LG Twin Wash is a dual drum washing machine that allows simultaneous washing and saving time.",
+    "stock": 4,
+    "specs": {
+      "capacity": "8kg main + 2kg mini washer",
+      "type": "Front Load",
+      "features": "TurboWash, Energy Efficient",
+      "spinSpeed": "1200 RPM"
+    },
+    "rating": 4.6,
+    "reviews": 230
+  },
+  {
+    "id": 89,
+    "description": "Godrej Green AC is an eco-friendly air conditioner providing efficient cooling and energy saving.",
+    "stock": 10,
+    "specs": {
+      "coolingCapacity": "1.5 Ton",
+      "energyRating": "5 Star",
+      "type": "Split AC",
+      "features": "Eco Mode, Fast Cooling"
+    },
+    "rating": 4.5,
+    "reviews": 180
+  },
+  {
+    "id": 99,
+    "description": "Samsung French Door refrigerator offers large capacity, smart features, and uniform cooling.",
+    "stock": 5,
+    "specs": {
+      "capacity": "675L",
+      "type": "French Door",
+      "features": "Digital inverter, Smart Connect",
+      "waterDispenser": "Yes"
+    },
+    "rating": 4.7,
+    "reviews": 140
+  },
+  {
+    "id": 109,
+    "description": "Realme Smart TV is a budget-friendly Android TV with vibrant display and smart features.",
+    "stock": 19,
+    "specs": {
+      "screenSize": "43 inches",
+      "resolution": "Full HD",
+      "displayType": "LED",
+      "smartTV": "Yes",
+      "connectivity": "Wi-Fi, HDMI, USB"
+    },
+    "rating": 4.4,
+    "reviews": 220
+  },
+  {
+    "id": 10,
+    "description": "Motorola Edge 40 is a clean UI phone with smooth performance, great display, and solid battery life.",
+    "stock": 19,
+    "specs": {
+      "display": "6.55-inch AMOLED",
+      "processor": "MediaTek Dimensity 8020",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4400mAh",
+      "camera": "50MP + 13MP",
+      "connectivity": "5G, Wi-Fi, Bluetooth"
+    },
+    "rating": 4.5,
+    "reviews": 410
+  },
+  {
+    "id": 20,
+    "description": "Lenovo ThinkPad X1 is a business-class laptop with premium build quality and performance.",
+    "stock": 5,
+    "specs": {
+      "display": "14-inch FHD",
+      "processor": "Intel Core i7 13th Gen",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "graphics": "Intel Iris Xe",
+      "connectivity": "Wi-Fi 6E, Bluetooth",
+      "battery": "70Wh"
+    },
+    "rating": 4.8,
+    "reviews": 230
+  },
+  {
+    "id": 30,
+    "description": "Beats Studio 3 headphones offer premium bass and noise-cancellation for immersive listening.",
+    "stock": 8,
+    "specs": {
+      "type": "Over-ear",
+      "impedance": "32 Ohms",
+      "frequencyResponse": "20Hz-20kHz",
+      "connectivity": "Bluetooth, Wired",
+      "battery": "22h playback"
+    },
+    "rating": 4.6,
+    "reviews": 190
+  },
+  {
+    "id": 40,
+    "description": "Garmin Forerunner 55 is a runner-focused smartwatch that tracks fitness and offers guided workouts.",
+    "stock": 8,
+    "specs": {
+      "display": "1.04-inch MIP",
+      "battery": "2 weeks",
+      "sensors": "Heart rate, GPS",
+      "waterResistance": "5 ATM",
+      "connectivity": "Bluetooth"
+    },
+    "rating": 4.7,
+    "reviews": 210
+  },
+  {
+    "id": 50,
+    "description": "Insta360 X3 is a 360° action camera that captures immersive video and photos with stabilization.",
+    "stock": 7,
+    "specs": {
+      "video": "5.7K 30fps",
+      "photo": "72MP",
+      "battery": "1800mAh",
+      "connectivity": "Wi-Fi, Bluetooth",
+      "stabilization": "FlowState 6-axis"
+    },
+    "rating": 4.8,
+    "reviews": 145
+  },
+  {
+    "id": 60,
+    "description": "Nike Slides are comfortable and casual footwear for everyday wear.",
+    "stock": 50,
+    "specs": {
+      "material": "Synthetic",
+      "sizes": "6-12",
+      "color": "Black, White, Blue",
+      "weight": "200g"
+    },
+    "rating": 4.4,
+    "reviews": 320
+  },
+  {
+    "id": 70,
+    "description": "Nightwear Set is a soft and comfortable sleepwear set designed for a relaxing night.",
+    "stock": 50,
+    "specs": {
+      "material": "Cotton blend",
+      "sizes": "S-XL",
+      "color": "Multiple",
+      "style": "Top & Bottom Set"
+    },
+    "rating": 4.5,
+    "reviews": 280
+  },
+  {
+    "id": 80,
+    "description": "Samsung EcoBubble washing machine uses bubble wash technology for effective and gentle cleaning.",
+    "stock": 6,
+    "specs": {
+      "capacity": "7kg",
+      "type": "Front Load",
+      "spinSpeed": "1200 RPM",
+      "features": "EcoBubble, Smart Check"
+    },
+    "rating": 4.6,
+    "reviews": 150
+  },
+  {
+    "id": 90,
+    "description": "Carrier Inverter AC provides durable performance and energy-efficient cooling for medium rooms.",
+    "stock": 6,
+    "specs": {
+      "coolingCapacity": "1.5 Ton",
+      "energyRating": "5 Star",
+      "type": "Split AC",
+      "features": "Inverter Technology, Fast Cooling"
+    },
+    "rating": 4.5,
+    "reviews": 120
+  },
+  {
+    "id": 100,
+    "description": "Haier Mini Refrigerator is a compact and energy-efficient fridge ideal for small spaces.",
+    "stock": 25,
+    "specs": {
+      "capacity": "100L",
+      "type": "Single Door",
+      "features": "Adjustable shelves, Frost-free",
+      "energyRating": "3 Star"
+    },
+    "rating": 4.4,
+    "reviews": 200
+  },
+  {
+    "id": 110,
+    "description": "Hisense UHD TV is a large-screen TV offering 4K resolution and smart connectivity for home entertainment.",
+    "stock": 9,
+    "specs": {
+      "screenSize": "50 Inches",
+      "resolution": "4K UHD",
+      "displayType": "LED",
+      "smartTV": "Yes",
+      "connectivity": "Wi-Fi, HDMI, USB"
+    },
+    "rating": 4.5,
+    "reviews": 180
+  }
+]

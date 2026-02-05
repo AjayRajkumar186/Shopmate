@@ -1,0 +1,992 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15",
+    "category": "Smartphones",
+    "price": 79900,
+    "stock": 20,
+    "image": "/images/product/Phone/phone1.jpg",
+    "description": "Latest iPhone generation."
+  },
+  {
+    "id": 11,
+    "name": "MacBook Air M2",
+    "category": "Laptops",
+    "price": 114900,
+    "stock": 10,
+    "image": "/images/product/Laptop/laptop1.webp",
+    "description": "Lightweight performance."
+  },
+  {
+    "id": 21,
+    "name": "JBL Tune 760NC",
+    "category": "Headphones",
+    "price": 7999,
+    "stock": 40,
+    "image": "/images/product/Headphone/head1.webp",
+    "description": "Affordable ANC headphones."
+  },
+  {
+    "id": 31,
+    "name": "Apple Watch SE",
+    "category": "SmartWatches",
+    "price": 29999,
+    "stock": 20,
+    "image": "/images/product/Watch/watch1.webp",
+    "description": "Affordable Apple smartwatch."
+  },
+  {
+    "id": 41,
+    "name": "Canon EOS R50",
+    "category": "Cameras",
+    "price": 68999,
+    "stock": 10,
+    "image": "/images/product/Camera/cam1.jpg",
+    "description": "Mirrorless beginner camera."
+  },
+  {
+    "id": 51,
+    "name": "Nike Air Max",
+    "category": "Footwear",
+    "price": 9999,
+    "stock": 30,
+    "image": "/images/product/Footer/shoe1.avif",
+    "description": "Comfort running shoes."
+  },
+  {
+    "id": 61,
+    "name": "Men Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 999,
+    "stock": 60,
+    "image": "/images/product/Clothing/cloth1.webp",
+    "description": "Soft cotton t-shirt."
+  },
+  {
+    "id": 71,
+    "name": "LG 7kg Front Load",
+    "category": "WashingMachines",
+    "price": 32999,
+    "stock": 10,
+    "image": "/images/product/WashingMachines/wm1.webp",
+    "description": "Energy efficient washing machine."
+  },
+  {
+    "id": 81,
+    "name": "LG 1.5 Ton 5 Star AC",
+    "category": "AirConditioners",
+    "price": 42999,
+    "stock": 9,
+    "image": "/images/product/AirConditioners/ac1.avif",
+    "description": "Energy efficient cooling."
+  },
+  {
+    "id": 91,
+    "name": "LG 260L Double Door",
+    "category": "Refrigerators",
+    "price": 29999,
+    "stock": 10,
+    "image": "/images/product/Refrigerators/fridge1.jpeg",
+    "description": "Frost free fridge."
+  },
+  {
+    "id": 101,
+    "name": "Samsung 55\" Smart TV",
+    "category": "Televisions",
+    "price": 54999,
+    "stock": 10,
+    "image": "/images/product/Televisions/tv1.webp",
+    "description": "4K Smart TV."
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "category": "Smartphones",
+    "price": 89999,
+    "stock": 18,
+    "image": "/images/product/Phone/phone2.jpg",
+    "description": "Flagship Samsung phone."
+  },
+  {
+    "id": 12,
+    "name": "HP Spectre x360",
+    "category": "Laptops",
+    "price": 134999,
+    "stock": 9,
+    "image": "/images/product/Laptop/laptop2.avif",
+    "description": "Premium 2-in-1 laptop."
+  },
+  {
+    "id": 22,
+    "name": "Boat Rockerz 550",
+    "category": "Headphones",
+    "price": 1999,
+    "stock": 60,
+    "image": "/images/product/Headphone/head2.webp",
+    "description": "Budget wireless headphones."
+  },
+  {
+    "id": 32,
+    "name": "Apple Watch Series 9",
+    "category": "SmartWatches",
+    "price": 41999,
+    "stock": 15,
+    "image": "/images/product/Watch/watch2.jpg",
+    "description": "Advanced health tracking."
+  },
+  {
+    "id": 42,
+    "name": "Nikon Z50",
+    "category": "Cameras",
+    "price": 75999,
+    "stock": 8,
+    "image": "/images/product/Camera/cam2.png",
+    "description": "Compact mirrorless."
+  },
+  {
+    "id": 52,
+    "name": "Adidas Ultraboost",
+    "category": "Footwear",
+    "price": 14999,
+    "stock": 18,
+    "image": "/images/product/Footer/shoe2.webp",
+    "description": "High performance shoes."
+  },
+  {
+    "id": 62,
+    "name": "Women Kurti",
+    "category": "Clothing",
+    "price": 1499,
+    "stock": 35,
+    "image": "/images/product/Clothing/cloth2.jpg",
+    "description": "Traditional wear."
+  },
+  {
+    "id": 72,
+    "name": "Samsung 6.5kg Top Load",
+    "category": "WashingMachines",
+    "price": 22999,
+    "stock": 14,
+    "image": "/images/product/WashingMachines/wm2.jpg",
+    "description": "Easy wash technology."
+  },
+  {
+    "id": 82,
+    "name": "Samsung WindFree AC",
+    "category": "AirConditioners",
+    "price": 48999,
+    "stock": 8,
+    "image": "/images/product/AirConditioners/ac2.png",
+    "description": "Gentle airflow cooling."
+  },
+  {
+    "id": 92,
+    "name": "Samsung 253L Double Door",
+    "category": "Refrigerators",
+    "price": 27999,
+    "stock": 12,
+    "image": "/images/product/Refrigerators/fridge2.webp",
+    "description": "Digital inverter technology."
+  },
+  {
+    "id": 102,
+    "name": "LG OLED 55\" 4K TV",
+    "category": "Televisions",
+    "price": 124999,
+    "stock": 6,
+    "image": "/images/product/Televisions/tv2.avif",
+    "description": "OLED display TV."
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 8",
+    "category": "Smartphones",
+    "price": 75999,
+    "stock": 15,
+    "image": "/images/product/Phone/phone3.jpg",
+    "description": "Clean Android experience."
+  },
+  {
+    "id": 13,
+    "name": "Lenovo Legion 5",
+    "category": "Laptops",
+    "price": 129999,
+    "stock": 12,
+    "image": "/images/product/Laptop/laptop3.webp",
+    "description": "Gaming powerhouse."
+  },
+  {
+    "id": 23,
+    "name": "Sennheiser HD 450BT",
+    "category": "Headphones",
+    "price": 14990,
+    "stock": 22,
+    "image": "/images/product/Headphone/head3.jpg",
+    "description": "Balanced sound quality."
+  },
+  {
+    "id": 33,
+    "name": "Samsung Galaxy Watch 6",
+    "category": "SmartWatches",
+    "price": 32999,
+    "stock": 18,
+    "image": "/images/product/Watch/watch3.webp",
+    "description": "Premium Android watch."
+  },
+  {
+    "id": 43,
+    "name": "Sony Alpha A6400",
+    "category": "Cameras",
+    "price": 85999,
+    "stock": 9,
+    "image": "/images/product/Camera/cam3.jpeg",
+    "description": "Fast autofocus camera."
+  },
+  {
+    "id": 53,
+    "name": "Puma RS-X",
+    "category": "Footwear",
+    "price": 7999,
+    "stock": 22,
+    "image": "/images/product/Footer/shoe3.avif",
+    "description": "Stylish sneakers."
+  },
+  {
+    "id": 63,
+    "name": "Men Denim Jeans",
+    "category": "Clothing",
+    "price": 1999,
+    "stock": 40,
+    "image": "/images/product/Clothing/cloth3.webp",
+    "description": "Slim fit jeans."
+  },
+  {
+    "id": 73,
+    "name": "Whirlpool 7kg Semi Auto",
+    "category": "WashingMachines",
+    "price": 14999,
+    "stock": 18,
+    "image": "/images/product/WashingMachines/wm3.webp",
+    "description": "Budget semi-automatic."
+  },
+  {
+    "id": 83,
+    "name": "Voltas 1.5 Ton Split AC",
+    "category": "AirConditioners",
+    "price": 34999,
+    "stock": 14,
+    "image": "/images/product/AirConditioners/ac3.jpg",
+    "description": "Value cooling AC."
+  },
+  {
+    "id": 93,
+    "name": "Whirlpool 240L Frost Free",
+    "category": "Refrigerators",
+    "price": 25999,
+    "stock": 14,
+    "image": "/images/product/Refrigerators/fridge3.webp",
+    "description": "Uniform cooling."
+  },
+  {
+    "id": 103,
+    "name": "Sony Bravia 65\"",
+    "category": "Televisions",
+    "price": 139999,
+    "stock": 5,
+    "image": "/images/product/Televisions/tv3.webp",
+    "description": "Premium TV."
+  },
+  {
+    "id": 4,
+    "name": "OnePlus Nord CE 3",
+    "category": "Smartphones",
+    "price": 24999,
+    "stock": 25,
+    "image": "/images/product/Phone/phone4.png",
+    "description": "Mid-range killer."
+  },
+  {
+    "id": 14,
+    "name": "ASUS ROG Zephyrus",
+    "category": "Laptops",
+    "price": 179999,
+    "stock": 6,
+    "image": "/images/product/Laptop/laptop4.png",
+    "description": "Ultra gaming laptop."
+  },
+  {
+    "id": 24,
+    "name": "Skullcandy Crusher",
+    "category": "Headphones",
+    "price": 12999,
+    "stock": 25,
+    "image": "/images/product/Headphone/head4.webp",
+    "description": "Extra bass experience."
+  },
+  {
+    "id": 34,
+    "name": "Noise ColorFit Pro 5",
+    "category": "SmartWatches",
+    "price": 4999,
+    "stock": 40,
+    "image": "/images/product/Watch/watch4.jpg",
+    "description": "Budget fitness watch."
+  },
+  {
+    "id": 44,
+    "name": "Canon EOS 1500D",
+    "category": "Cameras",
+    "price": 38999,
+    "stock": 20,
+    "image": "/images/product/Camera/cam4.webp",
+    "description": "DSLR starter kit."
+  },
+  {
+    "id": 54,
+    "name": "Reebok Flexagon",
+    "category": "Footwear",
+    "price": 4999,
+    "stock": 40,
+    "image": "/images/product/Footer/shoe4.avif",
+    "description": "Training shoes."
+  },
+  {
+    "id": 64,
+    "name": "Women Jeans",
+    "category": "Clothing",
+    "price": 2199,
+    "stock": 28,
+    "image": "/images/product/Clothing/cloth4.avif",
+    "description": "Comfort stretch jeans."
+  },
+  {
+    "id": 74,
+    "name": "IFB 8kg Front Load",
+    "category": "WashingMachines",
+    "price": 38999,
+    "stock": 8,
+    "image": "/images/product/WashingMachines/wm4.webp",
+    "description": "Deep clean technology."
+  },
+  {
+    "id": 84,
+    "name": "Daikin Inverter AC",
+    "category": "AirConditioners",
+    "price": 52999,
+    "stock": 7,
+    "image": "/images/product/AirConditioners/ac4.jpg",
+    "description": "Silent operation."
+  },
+  {
+    "id": 94,
+    "name": "Haier 320L Triple Door",
+    "category": "Refrigerators",
+    "price": 36999,
+    "stock": 8,
+    "image": "/images/product/Refrigerators/fridge4.avif",
+    "description": "Spacious storage."
+  },
+  {
+    "id": 104,
+    "name": "Mi 4A Pro 43\"",
+    "category": "Televisions",
+    "price": 25999,
+    "stock": 20,
+    "image": "/images/product/Televisions/tv4.jpg",
+    "description": "Budget 4K TV."
+  },
+  {
+    "id": 5,
+    "name": "Redmi Note 13 Pro",
+    "category": "Smartphones",
+    "price": 27999,
+    "stock": 30,
+    "image": "/images/product/Phone/phone5.jpg",
+    "description": "Great value phone."
+  },
+  {
+    "id": 15,
+    "name": "Acer Swift X",
+    "category": "Laptops",
+    "price": 89999,
+    "stock": 14,
+    "image": "/images/product/Laptop/laptop5.jpg",
+    "description": "Creator-friendly laptop."
+  },
+  {
+    "id": 25,
+    "name": "Sony WH-CH720N",
+    "category": "Headphones",
+    "price": 9999,
+    "stock": 30,
+    "image": "/images/product/Headphone/head5.jpg",
+    "description": "Lightweight ANC."
+  },
+  {
+    "id": 35,
+    "name": "Fire-Boltt Phoenix",
+    "category": "SmartWatches",
+    "price": 2999,
+    "stock": 50,
+    "image": "/images/product/Watch/watch5.webp",
+    "description": "Large display smartwatch."
+  },
+  {
+    "id": 45,
+    "name": "Nikon D5600",
+    "category": "Cameras",
+    "price": 52999,
+    "stock": 14,
+    "image": "/images/product/Camera/cam5.jpg",
+    "description": "DSLR with flip screen."
+  },
+  {
+    "id": 55,
+    "name": "Bata Formal Shoes",
+    "category": "Footwear",
+    "price": 2999,
+    "stock": 35,
+    "image": "/images/product/Footer/shoe5.webp",
+    "description": "Office wear shoes."
+  },
+  {
+    "id": 65,
+    "name": "Men Hoodie",
+    "category": "Clothing",
+    "price": 2499,
+    "stock": 22,
+    "image": "/images/product/Clothing/cloth5.jpg",
+    "description": "Winter hoodie."
+  },
+  {
+    "id": 75,
+    "name": "Bosch 7kg Front Load",
+    "category": "WashingMachines",
+    "price": 35999,
+    "stock": 7,
+    "image": "/images/product/WashingMachines/wm5.webp",
+    "description": "German engineering."
+  },
+  {
+    "id": 85,
+    "name": "Blue Star 1 Ton AC",
+    "category": "AirConditioners",
+    "price": 30999,
+    "stock": 12,
+    "image": "/images/product/AirConditioners/ac5.jpg",
+    "description": "Compact room AC."
+  },
+  {
+    "id": 95,
+    "name": "Godrej 190L Single Door",
+    "category": "Refrigerators",
+    "price": 15999,
+    "stock": 20,
+    "image": "/images/product/Refrigerators/fridge5.png",
+    "description": "Budget refrigerator."
+  },
+  {
+    "id": 105,
+    "name": "OnePlus Y Series",
+    "category": "Televisions",
+    "price": 31999,
+    "stock": 14,
+    "image": "/images/product/Televisions/tv5.png",
+    "description": "Android TV."
+  },
+  {
+    "id": 6,
+    "name": "iQOO Neo 7",
+    "category": "Smartphones",
+    "price": 29999,
+    "stock": 22,
+    "image": "/images/product/Phone/phone6.jpg",
+    "description": "Gaming focused phone."
+  },
+  {
+    "id": 16,
+    "name": "Dell Inspiron 15",
+    "category": "Laptops",
+    "price": 65999,
+    "stock": 18,
+    "image": "/images/product/Laptop/laptop6.jpg",
+    "description": "Daily use laptop."
+  },
+  {
+    "id": 26,
+    "name": "Realme Buds Wireless 3",
+    "category": "Headphones",
+    "price": 3999,
+    "stock": 45,
+    "image": "/images/product/Headphone/head6.webp",
+    "description": "Neckband style."
+  },
+  {
+    "id": 36,
+    "name": "Amazfit GTR 4",
+    "category": "SmartWatches",
+    "price": 16999,
+    "stock": 12,
+    "image": "/images/product/Watch/watch6.avif",
+    "description": "Sports-focused smartwatch."
+  },
+  {
+    "id": 46,
+    "name": "Sony ZV-E10",
+    "category": "Cameras",
+    "price": 71999,
+    "stock": 11,
+    "image": "/images/product/Camera/cam6.jpeg",
+    "description": "Vlogging camera."
+  },
+  {
+    "id": 56,
+    "name": "Woodland Boots",
+    "category": "Footwear",
+    "price": 6999,
+    "stock": 12,
+    "image": "/images/product/Footer/shoe6.webp",
+    "description": "Outdoor boots."
+  },
+  {
+    "id": 66,
+    "name": "Women Jacket",
+    "category": "Clothing",
+    "price": 3499,
+    "stock": 18,
+    "image": "/images/product/Clothing/cloth6.webp",
+    "description": "Warm jacket."
+  },
+  {
+    "id": 76,
+    "name": "Panasonic 6kg Top Load",
+    "category": "WashingMachines",
+    "price": 21999,
+    "stock": 12,
+    "image": "/images/product/WashingMachines/wm6.png",
+    "description": "Compact washer."
+  },
+  {
+    "id": 86,
+    "name": "Hitachi 1.5 Ton AC",
+    "category": "AirConditioners",
+    "price": 45999,
+    "stock": 10,
+    "image": "/images/product/AirConditioners/ac6.jpg",
+    "description": "Powerful cooling."
+  },
+  {
+    "id": 96,
+    "name": "Panasonic 307L Inverter",
+    "category": "Refrigerators",
+    "price": 33999,
+    "stock": 9,
+    "image": "/images/product/Refrigerators/fridge6.jpg",
+    "description": "Smart inverter fridge."
+  },
+  {
+    "id": 106,
+    "name": "TCL QLED TV",
+    "category": "Televisions",
+    "price": 48999,
+    "stock": 11,
+    "image": "/images/product/Televisions/tv6.webp",
+    "description": "QLED display."
+  },
+  {
+    "id": 7,
+    "name": "Vivo X90",
+    "category": "Smartphones",
+    "price": 59999,
+    "stock": 14,
+    "image": "/images/product/Phone/phone7.webp",
+    "description": "Camera flagship."
+  },
+  {
+    "id": 17,
+    "name": "MSI Katana",
+    "category": "Laptops",
+    "price": 119999,
+    "stock": 8,
+    "image": "/images/product/Laptop/laptop7.png",
+    "description": "Gaming series."
+  },
+  {
+    "id": 27,
+    "name": "Noise Cancelling Headset",
+    "category": "Headphones",
+    "price": 8999,
+    "stock": 20,
+    "image": "/images/product/Headphone/head7.jpg",
+    "description": "Immersive sound."
+  },
+  {
+    "id": 37,
+    "name": "Fossil Gen 6",
+    "category": "SmartWatches",
+    "price": 22999,
+    "stock": 10,
+    "image": "/images/product/Watch/watch7.jpg",
+    "description": "Stylish Wear OS watch."
+  },
+  {
+    "id": 47,
+    "name": "Fujifilm X-S10",
+    "category": "Cameras",
+    "price": 98999,
+    "stock": 6,
+    "image": "/images/product/Camera/cam7.jpeg",
+    "description": "Retro mirrorless."
+  },
+  {
+    "id": 57,
+    "name": "Skechers Go Walk",
+    "category": "Footwear",
+    "price": 6499,
+    "stock": 25,
+    "image": "/images/product/Footer/shoe7.webp",
+    "description": "Walking shoes."
+  },
+  {
+    "id": 67,
+    "name": "Men Formal Shirt",
+    "category": "Clothing",
+    "price": 1799,
+    "stock": 30,
+    "image": "/images/product/Clothing/cloth7.webp",
+    "description": "Office shirt."
+  },
+  {
+    "id": 77,
+    "name": "Haier 7.5kg Top Load",
+    "category": "WashingMachines",
+    "price": 23999,
+    "stock": 16,
+    "image": "/images/product/WashingMachines/wm7.webp",
+    "description": "Quick wash feature."
+  },
+  {
+    "id": 87,
+    "name": "Panasonic Smart AC",
+    "category": "AirConditioners",
+    "price": 39999,
+    "stock": 11,
+    "image": "/images/product/AirConditioners/ac7.webp",
+    "description": "WiFi enabled AC."
+  },
+  {
+    "id": 97,
+    "name": "Bosch 559L Side by Side",
+    "category": "Refrigerators",
+    "price": 89999,
+    "stock": 4,
+    "image": "/images/product/Refrigerators/fridge7.webp",
+    "description": "Premium fridge."
+  },
+  {
+    "id": 107,
+    "name": "Samsung Frame TV",
+    "category": "Televisions",
+    "price": 114999,
+    "stock": 4,
+    "image": "/images/product/Televisions/tv7.jpg",
+    "description": "Art frame TV."
+  },
+  {
+    "id": 8,
+    "name": "Realme GT 5",
+    "category": "Smartphones",
+    "price": 34999,
+    "stock": 28,
+    "image": "/images/product/Phone/phone8.jpg",
+    "description": "Performance beast."
+  },
+  {
+    "id": 18,
+    "name": "Samsung Galaxy Book",
+    "category": "Laptops",
+    "price": 99999,
+    "stock": 11,
+    "image": "/images/product/Laptop/laptop8.webp",
+    "description": "Sleek Windows laptop."
+  },
+  {
+    "id": 28,
+    "name": "AKG K361",
+    "category": "Headphones",
+    "price": 10999,
+    "stock": 12,
+    "image": "/images/product/Headphone/head8.jpg",
+    "description": "Studio headphones."
+  },
+  {
+    "id": 38,
+    "name": "Boat Wave Pro",
+    "category": "SmartWatches",
+    "price": 3499,
+    "stock": 35,
+    "image": "/images/product/Watch/watch8.webp",
+    "description": "Fitness & notifications."
+  },
+  {
+    "id": 48,
+    "name": "GoPro Hero 12",
+    "category": "Cameras",
+    "price": 39999,
+    "stock": 16,
+    "image": "/images/product/Camera/cam8.jpg",
+    "description": "Action camera."
+  },
+  {
+    "id": 58,
+    "name": "Campus Casual Shoes",
+    "category": "Footwear",
+    "price": 2499,
+    "stock": 45,
+    "image": "/images/product/Footer/shoe8.jpg",
+    "description": "Everyday shoes."
+  },
+  {
+    "id": 68,
+    "name": "Women Top",
+    "category": "Clothing",
+    "price": 1299,
+    "stock": 45,
+    "image": "/images/product/Clothing/cloth8.webp",
+    "description": "Casual top."
+  },
+  {
+    "id": 78,
+    "name": "Godrej 6kg Eco Wash",
+    "category": "WashingMachines",
+    "price": 18999,
+    "stock": 20,
+    "image": "/images/product/WashingMachines/wm8.webp",
+    "description": "Water saving washer."
+  },
+  {
+    "id": 88,
+    "name": "Lloyd 1.5 Ton AC",
+    "category": "AirConditioners",
+    "price": 33999,
+    "stock": 15,
+    "image": "/images/product/AirConditioners/ac8.webp",
+    "description": "Rapid cooling tech."
+  },
+  {
+    "id": 98,
+    "name": "LG InstaView Door-in-Door",
+    "category": "Refrigerators",
+    "price": 109999,
+    "stock": 3,
+    "image": "/images/product/Refrigerators/fridge8.jpg",
+    "description": "Glass door tech."
+  },
+  {
+    "id": 108,
+    "name": "Panasonic LED TV",
+    "category": "Televisions",
+    "price": 35999,
+    "stock": 13,
+    "image": "/images/product/Televisions/tv8.webp",
+    "description": "Reliable LED TV."
+  },
+  {
+    "id": 9,
+    "name": "Samsung Galaxy A54",
+    "category": "Smartphones",
+    "price": 38999,
+    "stock": 21,
+    "image": "/images/product/Phone/phone9.jpg",
+    "description": "All-rounder phone."
+  },
+  {
+    "id": 19,
+    "name": "HP Pavilion 14",
+    "category": "Laptops",
+    "price": 74999,
+    "stock": 20,
+    "image": "/images/product/Laptop/laptop9.jpg",
+    "description": "Compact laptop."
+  },
+  {
+    "id": 29,
+    "name": "Marshall Major IV",
+    "category": "Headphones",
+    "price": 12999,
+    "stock": 15,
+    "image": "/images/product/Headphone/head9.webp",
+    "description": "Iconic design."
+  },
+  {
+    "id": 39,
+    "name": "Realme Watch S",
+    "category": "SmartWatches",
+    "price": 4999,
+    "stock": 28,
+    "image": "/images/product/Watch/watch9.jpg",
+    "description": "Everyday smartwatch."
+  },
+  {
+    "id": 49,
+    "name": "DJI Pocket 2",
+    "category": "Cameras",
+    "price": 32999,
+    "stock": 10,
+    "image": "/images/product/Camera/cam9.jpg",
+    "description": "Stabilized vlog camera."
+  },
+  {
+    "id": 59,
+    "name": "Crocs Classic Clog",
+    "category": "Footwear",
+    "price": 3999,
+    "stock": 28,
+    "image": "/images/product/Footer/shoe9.webp",
+    "description": "Comfort clogs."
+  },
+  {
+    "id": 69,
+    "name": "Track Pants",
+    "category": "Clothing",
+    "price": 1499,
+    "stock": 38,
+    "image": "/images/product/Clothing/cloth9.webp",
+    "description": "Sports wear."
+  },
+  {
+    "id": 79,
+    "name": "LG Twin Wash",
+    "category": "WashingMachines",
+    "price": 64999,
+    "stock": 4,
+    "image": "/images/product/WashingMachines/wm9.jpeg",
+    "description": "Dual drum washing."
+  },
+  {
+    "id": 89,
+    "name": "Godrej Green AC",
+    "category": "AirConditioners",
+    "price": 36999,
+    "stock": 10,
+    "image": "/images/product/AirConditioners/ac9.webp",
+    "description": "Eco-friendly AC."
+  },
+  {
+    "id": 99,
+    "name": "Samsung French Door",
+    "category": "Refrigerators",
+    "price": 79999,
+    "stock": 5,
+    "image": "/images/product/Refrigerators/fridge9.jpg",
+    "description": "Large capacity fridge."
+  },
+  {
+    "id": 109,
+    "name": "Realme Smart TV",
+    "category": "Televisions",
+    "price": 23999,
+    "stock": 19,
+    "image": "/images/product/Televisions/tv9.jpg",
+    "description": "Value TV."
+  },
+  {
+    "id": 10,
+    "name": "Motorola Edge 40",
+    "category": "Smartphones",
+    "price": 27999,
+    "stock": 19,
+    "image": "/images/product/Phone/phone10.png",
+    "description": "Clean UI phone."
+  },
+  {
+    "id": 20,
+    "name": "Lenovo ThinkPad X1",
+    "category": "Laptops",
+    "price": 189999,
+    "stock": 5,
+    "image": "/images/product/Laptop/laptop10.avif",
+    "description": "Business-class laptop."
+  },
+  {
+    "id": 30,
+    "name": "Beats Studio 3",
+    "category": "Headphones",
+    "price": 24999,
+    "stock": 8,
+    "image": "/images/product/Headphone/head10.jpg",
+    "description": "Premium bass headphones."
+  },
+  {
+    "id": 40,
+    "name": "Garmin Forerunner 55",
+    "category": "SmartWatches",
+    "price": 18999,
+    "stock": 8,
+    "image": "/images/product/Watch/watch10.webp",
+    "description": "Runner-focused watch."
+  },
+  {
+    "id": 50,
+    "name": "Insta360 X3",
+    "category": "Cameras",
+    "price": 45999,
+    "stock": 7,
+    "image": "/images/product/Camera/cam10.jpg",
+    "description": "360° action camera."
+  },
+  {
+    "id": 60,
+    "name": "Nike Slides",
+    "category": "Footwear",
+    "price": 1999,
+    "stock": 50,
+    "image": "/images/product/Footer/shoe10.avif",
+    "description": "Casual slides."
+  },
+  {
+    "id": 70,
+    "name": "Nightwear Set",
+    "category": "Clothing",
+    "price": 999,
+    "stock": 50,
+    "image": "/images/product/Clothing/cloth10.webp",
+    "description": "Comfort sleepwear."
+  },
+  {
+    "id": 80,
+    "name": "Samsung EcoBubble",
+    "category": "WashingMachines",
+    "price": 42999,
+    "stock": 6,
+    "image": "/images/product/WashingMachines/wm10.avif",
+    "description": "Bubble wash tech."
+  },
+  {
+    "id": 90,
+    "name": "Carrier Inverter AC",
+    "category": "AirConditioners",
+    "price": 45999,
+    "stock": 6,
+    "image": "/images/product/AirConditioners/ac10.jpg",
+    "description": "Durable performance."
+  },
+  {
+    "id": 100,
+    "name": "Haier Mini Refrigerator",
+    "category": "Refrigerators",
+    "price": 12999,
+    "stock": 25,
+    "image": "/images/product/Refrigerators/fridge10.webp",
+    "description": "Compact fridge."
+  },
+  {
+    "id": 110,
+    "name": "Hisense UHD TV",
+    "category": "Televisions",
+    "price": 42999,
+    "stock": 9,
+    "image": "/images/product/Televisions/tv10.webp",
+    "description": "Large screen TV."
+  }
+]

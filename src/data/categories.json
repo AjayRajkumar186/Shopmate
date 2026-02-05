@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphones"
+  },
+  {
+    "id": 2,
+    "name": "Laptops"
+  },
+  {
+    "id": 3,
+    "name": "Headphones"
+  },
+  {
+    "id": 4,
+    "name": "SmartWatches"
+  },
+  {
+    "id": 5,
+    "name": "Cameras"
+  },
+  {
+    "id": 6,
+    "name": "Footwear"
+  },
+  {
+    "id": 7,
+    "name": "Clothing"
+  },
+  {
+    "id": 8,
+    "name": "Televisions"
+  },
+  {
+    "id": 9,
+    "name": "WashingMachines"
+  },
+  {
+    "id": 10,
+    "name": "AirConditioners"
+  },
+  {
+    "id": 11,
+    "name": "Refrigerators"
+  }
+]
