@@ -30,7 +30,7 @@ const MyOrders = () => {
         </p>
 
         <button
-          onClick={() => navigate("/")}
+          onClick={() => navigate("/product")}
           className="bg-indigo-600 text-white px-6 py-3 rounded-lg hover:bg-indigo-700 transition"
         >
           Continue Shopping
@@ -44,7 +44,7 @@ const MyOrders = () => {
       <div className="flex justify-between items-center mb-6">
         <h2 className="text-3xl font-bold dark:text-white">My Orders</h2>
         <button
-          onClick={() => navigate("/")}
+          onClick={() => navigate("/product")}
           className="bg-indigo-600 text-white px-3.5 py-2  rounded-lg hover:bg-indigo-700 transition"
         >
           Continue Shopping

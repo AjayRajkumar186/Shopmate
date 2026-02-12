@@ -33,50 +33,96 @@ const Checkout = () => {
     setShipping({ ...shipping, [name]: value });
   };
 
-  const handlePlaceOrder = (e) => {
-    e.preventDefault();
+  const loadRazorpayScript = () => {
+  return new Promise((resolve) => {
+    const script = document.createElement("script");
+    script.src = "https://checkout.razorpay.com/v1/checkout.js";
+    script.onload = () => resolve(true);
+    script.onerror = () => resolve(false);
+    document.body.appendChild(script);
+  });
+};
 
-    // ❌ Validation error
-    if (!shipping.name || !shipping.address || !shipping.phone) {
-      Swal.fire({
-        icon: "warning",
-        title: "Missing Details",
-        text: "Please fill all shipping fields",
-        confirmButtonColor: "#f59e0b",
-      });
-      return;
-    }
 
-    const newOrder = {
-      id: Date.now(),
-      userId: user.role,
-      items: cart.map(item => ({
-        id: item.id,
-        name: item.name,
-        price: item.price,
-        qty: item.qty,
-        img: item.image
-      })),
-      shipping,
-      total: totalAmount,
-      date: new Date().toISOString(),
-      status: "Confirmed",
-    };
+  const handlePlaceOrder = async(e) => {
+  e.preventDefault();
 
-    addOrder(newOrder);
-    clearCart();
-
-    // ✅ Success message
+  if (!shipping.name || !shipping.address || !shipping.phone) {
     Swal.fire({
-      icon: "success",
-      title: "Order Placed 🎉",
-      text: "Your order has been placed successfully!",
-      showConfirmButton: false,
-      timer: 1800,
-    }).then(() => {
-      navigate("/my-orders");
+      icon: "warning",
+      title: "Missing Details",
+      text: "Please fill all shipping fields",
+      confirmButtonColor: "#f59e0b",
     });
+    return;
+  }
+
+
+  const isLoaded = await loadRazorpayScript();
+
+  if (!isLoaded) {
+    Swal.fire({
+      icon: "error",
+      title: "Razorpay SDK Failed",
+      text: "Failed to load Razorpay. Check internet connection.",
+    });
+    return;
+  }
+
+
+  const options = {
+    key: import.meta.env.VITE_RAZORPAY_KEY,// 👈 Put your test key here
+    amount: totalAmount * 100, // Razorpay expects amount in paise
+    currency: "INR",
+    name: "ShopMate",
+    description: "Order Payment",
+    image: "/logo.png", // optional
+    handler: function (response) {
+      // Payment successful
+
+      const newOrder = {
+        id: Date.now(),
+        paymentId: response.razorpay_payment_id,
+        userId: user.role,
+        items: cart.map((item) => ({
+          id: item.id,
+          name: item.name,
+          price: item.price,
+          qty: item.qty,
+          img: item.image,
+        })),
+        shipping,
+        total: totalAmount,
+        date: new Date().toISOString(),
+        status: "Paid",
+      };
+
+      addOrder(newOrder);
+      clearCart();
+
+      Swal.fire({
+        icon: "success",
+        title: "Payment Successful 🎉",
+        text: "Your order has been placed!",
+        timer: 1800,
+        showConfirmButton: false,
+      }).then(() => {
+        navigate("/my-orders");
+      });
+    },
+    prefill: {
+      name: shipping.name,
+      contact: shipping.phone,
+    },
+    theme: {
+      color: "#4f46e5",
+    },
   };
+
+ const razor = new window.Razorpay(options);
+  razor.open();
+};
+
 
 
   if (!user || cart.length === 0) {

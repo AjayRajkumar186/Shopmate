@@ -26,6 +26,9 @@ const Header = ({ selectedCategory, setSelectedCategory }) => {
   const [showMobileSearch, setShowMobileSearch] = useState(true);
   const [darkMode, setDarkMode] = useState(false);
 
+  const [isOpen, setIsOpen] = useState(false);
+
+
   const profileRef = useRef(null);
   const mobileMenuRef = useRef(null);
 
@@ -314,6 +317,7 @@ const Header = ({ selectedCategory, setSelectedCategory }) => {
             {/* Orders */}
             <Link
               to="/my-orders"
+              onClick={() => setOpen(false)}
               className="flex items-center gap-4 px-4 py-3 hover:bg-indigo-50 transition"
             >
               <span className="w-9 h-9 rounded-full bg-indigo-100 text-indigo-600 flex items-center justify-center">
@@ -322,10 +326,12 @@ const Header = ({ selectedCategory, setSelectedCategory }) => {
               <span className="font-medium">My Orders</span>
             </Link>
 
+
             {/* Admin */}
             {user?.role === "admin" && (
               <Link
                 to="/add-product"
+                onClick={() => setOpen(false)}
                 className="flex items-center gap-4 px-4 py-3 hover:bg-green-50 transition"
               >
                 <span className="w-9 h-9 rounded-full bg-green-100 text-green-600 flex items-center justify-center">

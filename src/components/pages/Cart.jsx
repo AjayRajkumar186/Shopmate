@@ -19,7 +19,7 @@ const Cart = () => {
           <span>Your cart is empty</span>
         </h2>
         <Link
-          to="/"
+          to="/product"
           className="bg-indigo-600 text-white px-6 py-2 rounded hover:bg-indigo-700 transition"
         >
           Continue Shopping
@@ -123,7 +123,7 @@ const Cart = () => {
 
 
           <Link
-            to="/"
+            to="/product"
             className="block text-center mt-4 text-indigo-600 hover:underline"
           >
             Continue Shopping
