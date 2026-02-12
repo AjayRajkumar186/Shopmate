@@ -14,7 +14,7 @@ const Footer = () => {
 
         {/* Brand */}
         <div>
-          <h2 className="text-2xl font-bold text-white">ShopMate</h2>
+          <h2 className="text-2xl font-semibold mb-4 bg-gradient-to-r from-indigo-800 via-blue-400 to-blue-800 bg-clip-text text-transparent">ShopMate</h2>
           <p className="text-sm mt-4 leading-relaxed">
             Your one-stop shop for premium products, fast delivery, and unbeatable prices.
           </p>
@@ -38,8 +38,8 @@ const Footer = () => {
 
         {/* Quick Links */}
         <div>
-          <h3 className="text-white font-semibold mb-4">Quick Links</h3>
-          <ul className="space-y-3 text-sm">
+          <h3 className="text-lg font-semibold mb-4 bg-gradient-to-r from-indigo-800 via-blue-400 to-blue-800 bg-clip-text text-transparent">Quick Links</h3>
+          <ul className="space-y-3 text-sm text-gray-300 md:text-gray-300">
             <li><Link to="/" className="hover:text-white">Home</Link></li>
             <li><Link to="/product" className="hover:text-white">Products</Link></li>
             <li><Link to="/my-orders" className="hover:text-white">My Orders</Link></li>
@@ -49,8 +49,8 @@ const Footer = () => {
 
         {/* Support */}
         <div>
-          <h3 className="text-white font-semibold mb-4">Support</h3>
-          <ul className="space-y-3 text-sm">
+          <h3 className="text-lg font-semibold mb-4 bg-gradient-to-r from-indigo-800 via-blue-400 to-blue-800 bg-clip-text text-transparent">Support</h3>
+          <ul className="space-y-3 text-sm text-gray-300 md:text-gray-300">
             <li><Link to="/contact" className="hover:text-white">Contact Us</Link></li>
             <li><Link to="/faq" className="hover:text-white">FAQ</Link></li>
             <li><Link to="/privacy" className="hover:text-white">Privacy Policy</Link></li>
@@ -60,8 +60,8 @@ const Footer = () => {
 
         {/* Contact Info */}
         <div>
-          <h3 className="text-white font-semibold mb-4">Contact</h3>
-          <ul className="space-y-4 text-sm">
+          <h3 className="text-lg font-semibold mb-4 bg-gradient-to-r from-indigo-800 via-blue-400 to-blue-800 bg-clip-text text-transparent">contact</h3>
+          <ul className="space-y-4 text-sm text-gray-300 md:text-gray-300">
             <li className="flex items-center gap-3">
               <FiPhone className="text-indigo-500" />
               +91 86676 26797
