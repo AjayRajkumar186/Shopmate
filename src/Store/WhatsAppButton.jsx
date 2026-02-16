@@ -7,7 +7,6 @@ import {
   FaLinkedinIn,
   FaCog,
 } from "react-icons/fa";
-import { FiSun, FiMoon } from "react-icons/fi";
 import { motion, AnimatePresence } from "framer-motion";
 import { useSelector } from "react-redux";
 
