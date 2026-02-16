@@ -68,12 +68,6 @@ const WhatsAppButton = () => {
     }
   }, []);
 
-  const toggleTheme = () => {
-    const isDark = document.documentElement.classList.toggle("dark");
-    setDarkMode(isDark);
-    localStorage.setItem("theme", isDark ? "dark" : "light");
-  };
-
   return (
     <div className="fixed top-[45%] right-6 z-50">
 
